@@ -5,7 +5,8 @@ A beginner-friendly Python portfolio exercise demonstrating **HTML structure, CS
 ## Quick start
 
 ```bash
-cd job_data_extractor
+git clone https://github.com/Topfrancky/job-posting-data-extractor.git
+cd job-posting-data-extractor
 python -m pip install -r requirements.txt
 python extract_jobs.py
 python -m unittest -v
